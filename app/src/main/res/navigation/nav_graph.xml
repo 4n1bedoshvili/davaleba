@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ramefragmenti1">
+
+    <fragment
+        android:id="@+id/ramefragmenti1"
+        android:name="com.example.myapplication.ramefragmenti1"
+        android:label="fragment_ramefragmenti1"
+        tools:layout="@layout/fragment_ramefragmenti1" />
+    <fragment
+        android:id="@+id/ramefragmenti2"
+        android:name="com.example.myapplication.ramefragmenti2"
+        android:label="fragment_ramefragmenti2"
+        tools:layout="@layout/fragment_ramefragmenti2" />
+    <fragment
+        android:id="@+id/ramefragmenti3"
+        android:name="com.example.myapplication.ramefragmenti3"
+        android:label="fragment_ramefragmenti3"
+        tools:layout="@layout/fragment_ramefragmenti3" />
+    <fragment
+        android:id="@+id/ramefragmenti4"
+        android:name="com.example.myapplication.ramefragmenti4"
+        android:label="fragment_ramefragmenti4"
+        tools:layout="@layout/fragment_ramefragmenti4" />
+</navigation>

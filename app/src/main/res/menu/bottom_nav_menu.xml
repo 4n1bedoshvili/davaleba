@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ramefragmenti1"
+        android:icon="@drawable/ramefragmenti1stvis"
+        android:title="rame1"
+        />
+    <item
+        android:id="@+id/ramefragmenti2"
+        android:icon="@drawable/ramefragmenti2stvis"
+        android:title="rame2" />
+    <item
+        android:id="@+id/ramefragmenti3"
+        android:icon="@drawable/ramefragmenti3stvis"
+        android:title="rame3" />
+    <item
+        android:id="@+id/ramefragmenti4"
+        android:icon="@drawable/ramefragmenti4stvis"
+        android:title="rame4" />
+</menu>
